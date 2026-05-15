@@ -199,9 +199,10 @@ The dashboard uses a modern dark-themed UI with:
 * Business Intelligence
 
 ---
-
 # 👨‍💻 Author
 
-Uday Shankar Sharma
+Amit kumar
+
+[![LinkedIn - Connect with Me](https://img.shields.io/badge/LinkedIn-amit--kumar--c-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/amit-kumar-c/)
 
 ---
