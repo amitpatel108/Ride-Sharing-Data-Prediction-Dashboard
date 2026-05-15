@@ -1,6 +1,6 @@
-# 🚖 Ride Sharing Analytics Dashboard
+## 🚖 Ride Sharing Analytics Dashboard
 
-## 📌 Project Overview
+### 📌 Project Overview
 
 This project is an end-to-end Business Intelligence solution built for analyzing ride-sharing data using:
 
@@ -20,7 +20,7 @@ The project demonstrates the complete analytics workflow from data cleaning to i
 
 ---
 
-# 🧠 Problem Statement
+## 🧠 Problem Statement
 
 Ride-sharing companies generate large amounts of operational data daily.
 The objective of this project is to transform raw ride booking data into meaningful business insights using modern data analytics and BI techniques.
@@ -35,7 +35,7 @@ The dashboard helps answer business questions such as:
 
 ---
 
-# ⚙️ Tech Stack
+## ⚙️ Tech Stack
 
 | Tool     | Purpose                             |
 | -------- | ----------------------------------- |
@@ -47,7 +47,7 @@ The dashboard helps answer business questions such as:
 
 ---
 
-# 🔄 Project Workflow
+## 🔄 Project Workflow
 
 ```text
 Raw Dataset
@@ -69,56 +69,13 @@ Interactive Dashboard
 
 ---
 
-# 📂 Dataset Features
+## 📸 Dashboard Preview
 
-The cleaned dataset contains the following columns:
-
-* Date
-* Time
-* Booking ID
-* Booking Status
-* Customer ID
-* Vehicle Type
-* Pickup Location
-* Drop Location
-* Avg VTAT
-* Avg CTAT
-* Booking Value
-* Ride Distance
-* Driver Ratings
-* Customer Ratings
-* Payment Method
-* Datetime
-* Hour
-* Day
-* Weekday
-* Month
-* is_weekend
+![Dashboard](images/dashboard.png)
 
 ---
 
-# 🏗️ Data Modeling
-
-The dashboard follows a **Star Schema** model.
-
-### Fact Table
-
-* Fact_Rides
-
-### Dimension Tables
-
-* Dim_Date
-* Dim_Vehicle
-* Dim_Payment
-* Dim_Status
-* Dim_PickupLocation
-* Dim_DropLocation
-
----
-
-# 📊 Dashboard Features
-
-## Executive Overview Dashboard
+## 📊 Dashboard Features
 
 ### KPIs
 
@@ -146,7 +103,56 @@ The dashboard follows a **Star Schema** model.
 
 ---
 
-# 📈 Key Insights
+## 📂 Dataset Features
+
+The cleaned dataset contains the following columns:
+
+* Date
+* Time
+* Booking ID
+* Booking Status
+* Customer ID
+* Vehicle Type
+* Pickup Location
+* Drop Location
+* Avg VTAT
+* Avg CTAT
+* Booking Value
+* Ride Distance
+* Driver Ratings
+* Customer Ratings
+* Payment Method
+* Datetime
+* Hour
+* Day
+* Weekday
+* Month
+* is_weekend
+
+---
+
+## 🏗️ Data Modeling
+
+The dashboard follows a **Star Schema** model.
+
+### Fact Table
+
+* Fact_Rides
+
+### Dimension Tables
+
+* Dim_Date
+* Dim_Vehicle
+* Dim_Payment
+* Dim_Status
+* Dim_PickupLocation
+* Dim_DropLocation
+
+---
+
+
+
+## 📈 Key Insights
 
 * Peak ride demand occurs during evening hours.
 * SUVs contribute the highest revenue.
@@ -156,7 +162,7 @@ The dashboard follows a **Star Schema** model.
 
 ---
 
-# 🎨 Dashboard UI
+## 🎨 Dashboard UI
 
 The dashboard uses a modern dark-themed UI with:
 
@@ -168,15 +174,9 @@ The dashboard uses a modern dark-themed UI with:
 
 ---
 
-# 📸 Dashboard Preview
 
-## Executive Overview Dashboard
 
-(Add dashboard screenshot here)
-
----
-
-# 🚀 Future Improvements
+## 🚀 Future Improvements
 
 * Customer & Location Intelligence Dashboard
 * Operational Performance Analytics
@@ -186,7 +186,7 @@ The dashboard uses a modern dark-themed UI with:
 
 ---
 
-# 📚 Skills Demonstrated
+## 📚 Skills Demonstrated
 
 * Data Cleaning
 * Feature Engineering
@@ -199,7 +199,7 @@ The dashboard uses a modern dark-themed UI with:
 * Business Intelligence
 
 ---
-# 👨‍💻 Author
+## 👨‍💻 Author
 
 Amit kumar
 
